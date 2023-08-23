@@ -1,4 +1,4 @@
-import { Header } from '@components/header';
+import { Header } from '@components/Header';
 import { Container } from './styles';
 
 export function Groups() {
